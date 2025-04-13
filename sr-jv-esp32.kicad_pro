@@ -58,12 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "starved_thermal|17950000|66462500|2e2a05ae-5d9e-4647-9605-9291ddfb1df6|93f06d79-6caa-4346-81cd-0c0ffaffb064|B.Cu",
-        "starved_thermal|26137500|57575000|2e2a05ae-5d9e-4647-9605-9291ddfb1df6|2f7871b6-6698-4476-bd8e-0df0dfc0c059|B.Cu",
-        "starved_thermal|9200000|7680000|2e2a05ae-5d9e-4647-9605-9291ddfb1df6|164004c5-bc9c-4703-881b-ca34fa4be2f0|B.Cu",
-        "starved_thermal|9200000|7680000|2e2a05ae-5d9e-4647-9605-9291ddfb1df6|3dee9a04-b603-4a8b-9f11-05338d7e8eb5|B.Cu"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -500,7 +495,7 @@
       "idf": "",
       "netlist": "",
       "plot": "output_mp110/",
-      "pos_files": "output/",
+      "pos_files": "output_mp110/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
