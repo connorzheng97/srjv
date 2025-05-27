@@ -3,6 +3,10 @@ SR-JV80 Programmable Expansion Card with ESP32 Wi-Fi
 - Product info page at https://www.ddzheng.cc/?page_id=666
 - Blog post at https://www.ddzheng.cc/?p=617
 
+This board is a re-writable ROM card with a Wi-Fi based user interface. It can store a ROM image up to 8MB/64Mbit, usually custom authored, and be used in compatible Roland synthesizers in place of an original SR-JV80 series expansion card to research the sound generation and synthesizing.
+
+![SR-JV80 Wi-Fi Board](https://www.ddzheng.cc/wp-content/uploads/2025/02/IMG_20250213_152246.jpg "SR-JV80 Wi-Fi Board")
+
 # Hardware Info
 - ESP32-S3 Wroom module requires at least 2 MB Flash (No OTA) or 4 MB (with OTA).
 - The NOR flash can be TSSOP 48 or 56 pin, 8 MB or more, 70ns or faster, with byte (8-bit) mode support. Regularly used for production is MX29LV640
